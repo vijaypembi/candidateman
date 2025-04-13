@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build directories
+/dist
+/build
+
+# Frontend build output
+/cmclient/build
+
+# Backend build output
+/cmserver/build
+
+# .env files
+.env
